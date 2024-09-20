@@ -1,0 +1,14 @@
+/Users/EUGENE/RiderProjects/Solution1/Practice_Sets_03_Functions/bin/Debug/net8.0/Practice_Sets_03_Functions
+/Users/EUGENE/RiderProjects/Solution1/Practice_Sets_03_Functions/bin/Debug/net8.0/Practice_Sets_03_Functions.deps.json
+/Users/EUGENE/RiderProjects/Solution1/Practice_Sets_03_Functions/bin/Debug/net8.0/Practice_Sets_03_Functions.runtimeconfig.json
+/Users/EUGENE/RiderProjects/Solution1/Practice_Sets_03_Functions/bin/Debug/net8.0/Practice_Sets_03_Functions.dll
+/Users/EUGENE/RiderProjects/Solution1/Practice_Sets_03_Functions/bin/Debug/net8.0/Practice_Sets_03_Functions.pdb
+/Users/EUGENE/RiderProjects/Solution1/Practice_Sets_03_Functions/obj/Debug/net8.0/Practice_Sets_03_Functions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/EUGENE/RiderProjects/Solution1/Practice_Sets_03_Functions/obj/Debug/net8.0/Practice_Sets_03_Functions.AssemblyInfoInputs.cache
+/Users/EUGENE/RiderProjects/Solution1/Practice_Sets_03_Functions/obj/Debug/net8.0/Practice_Sets_03_Functions.AssemblyInfo.cs
+/Users/EUGENE/RiderProjects/Solution1/Practice_Sets_03_Functions/obj/Debug/net8.0/Practice_Sets_03_Functions.csproj.CoreCompileInputs.cache
+/Users/EUGENE/RiderProjects/Solution1/Practice_Sets_03_Functions/obj/Debug/net8.0/Practice_Sets_03_Functions.dll
+/Users/EUGENE/RiderProjects/Solution1/Practice_Sets_03_Functions/obj/Debug/net8.0/refint/Practice_Sets_03_Functions.dll
+/Users/EUGENE/RiderProjects/Solution1/Practice_Sets_03_Functions/obj/Debug/net8.0/Practice_Sets_03_Functions.pdb
+/Users/EUGENE/RiderProjects/Solution1/Practice_Sets_03_Functions/obj/Debug/net8.0/Practice_Sets_03_Functions.genruntimeconfig.cache
+/Users/EUGENE/RiderProjects/Solution1/Practice_Sets_03_Functions/obj/Debug/net8.0/ref/Practice_Sets_03_Functions.dll

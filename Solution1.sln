@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice_Sets _03 _Functions1", "Practice_Sets _03 _Functions1\Practice_Sets _03 _Functions1.csproj", "{141E69DE-06C6-49F4-90A7-5DDE7C832896}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice_Sets_03_Functions2", "Practice_Sets_03_Functions2\Practice_Sets_03_Functions2.csproj", "{3751F142-D8CC-477E-831A-55B8D361256E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{141E69DE-06C6-49F4-90A7-5DDE7C832896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{141E69DE-06C6-49F4-90A7-5DDE7C832896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{141E69DE-06C6-49F4-90A7-5DDE7C832896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{141E69DE-06C6-49F4-90A7-5DDE7C832896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3751F142-D8CC-477E-831A-55B8D361256E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3751F142-D8CC-477E-831A-55B8D361256E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3751F142-D8CC-477E-831A-55B8D361256E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3751F142-D8CC-477E-831A-55B8D361256E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
